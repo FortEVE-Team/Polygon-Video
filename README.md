@@ -1,4 +1,4 @@
-# Polygon-Video
+# [Polygon-Video](https://www.youtube.com/watch?v=vunqTzzC-QI)
 
 ## Set Up Environment for Development on Polygon
 
@@ -6,4 +6,4 @@
 
 ## Deploying on Polygon using Truffle
 
-[Video Source](https://www.youtube.com/watch?v=vunqTzzC-QI)
+
